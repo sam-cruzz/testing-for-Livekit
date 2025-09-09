@@ -1,4 +1,6 @@
 
+
+
 var janus = null;
 var streaming = null;
 var opaqueId = "streamingtest-"+Janus.randomString(12);
